@@ -11,6 +11,6 @@ To compute DS weights, use the script `compute_weights.sh`
 To start training, use the script `baseline.sh`.
 
 ## Evaluation
-To evaluate the model, use the script `evaluation.sh`. Please note that if you use your own evaluation script, the accuracy computed may be different from what we report in the paper, because different strategies will parse different answer from the LLM's output text.
+To evaluate the model, use the script `evaluation.sh`.
 
 **We would recommend that you refer to the arxiv version for more details.**
